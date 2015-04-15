@@ -1,6 +1,6 @@
 {
   "name": "use-express4",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "cuz I am lazy",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,9 @@
   },
   "bin": {
     "servedir": "./bin/servedirjs.js"
+  },
+  "repository": {
+    "git" : "https://github.com/mhzed/use-express4.git"
   },
   "keywords": [
     "quick",
